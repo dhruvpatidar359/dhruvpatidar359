@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhruv Patidar
 - 👀 I’m interested in Video Editing using Filmora , Premiere Pro , Coding , Graphic Design , Android Developement
 - 🌱 I’m currently learning Android Development(Using Java)
-- 💞️ I’m looking to collaborate on hmmm for now i have no idea about collaborate but if some ask me for the collaboration then i will definitely collab
+- 💞️ Currently Collaborating on some android development projects.
 - 📫 How to reach me you can mail on my mail id : dhruvpatidar35@gmail.com or insta at dhruvpatidar359 or on linkedin as DHRUV PATIDAR
 
 <!---
