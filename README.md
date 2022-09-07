@@ -1,10 +1,35 @@
-- 👋 Hi, I’m Dhruv Patidar
-- 👀 I’m interested in Video Editing using Filmora , Premiere Pro , Coding , Graphic Design , Android Developement
-- 🌱 I’m currently learning Android Development(Using Java)
-- 💞️ Currently Collaborating on some android development projects.
-- 📫 How to reach me you can mail on my mail id : dhruvpatidar35@gmail.com or insta at dhruvpatidar359 or on linkedin as DHRUV PATIDAR
+<h1 align="center">Hi 👋, I'm Dhruv Patidar</h1>
+<h3 align="center">A passionate Android Developer from India</h3>
+<image>https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif</image>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatidar359&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatidar359" /> </p>
 
-<!---
-dhruvpatidar359/dhruvpatidar359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvpatidar359" alt="dhruvpatidar359" /></a> </p>
+
+- 🔭 I’m currently working on [AmazeFileExplorer](https://github.com/TeamAmaze/AmazeFileManager.git)
+
+- 🌱 I’m currently learning **Android development , java**
+
+- 💬 Ask me about **java , python**
+
+- 📫 How to reach me **dhruvpatidar35@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dhruv patidar @dhruvpa38741588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv patidar @dhruvpa38741588" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-patidar-5b7774226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-patidar-5b7774226" height="30" width="40" /></a>
+<a href="https://fb.com/dhruv patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruv patidar" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruvpatidar359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvpatidar359" height="30" width="40" /></a>
+<a href="https://hashnode.com/dhruv patidar @dhruvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dhruv patidar @dhruvb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dino dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dino dhruv" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhruvpatidar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvpatidar35" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhruvpatidar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvpatidar35" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpatidar359&show_icons=true&locale=en&layout=compact" alt="dhruvpatidar359" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvpatidar359&show_icons=true&locale=en" alt="dhruvpatidar359" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpatidar359&" alt="dhruvpatidar359" /></p>
