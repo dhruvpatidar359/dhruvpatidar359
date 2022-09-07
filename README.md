@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patidar</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
-<img>https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif</img>
+<img src=https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatidar359&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatidar359" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvpatidar359" alt="dhruvpatidar359" /></a> </p>
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/dhruv-patidar-5b7774226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-patidar-5b7774226" height="30" width="40" /></a>
 <a href="https://fb.com/dhruv patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruv patidar" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruvpatidar359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvpatidar359" height="30" width="40" /></a>
-<a href="https://hashnode.com/dhruv patidar @dhruvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dhruv patidar @dhruvb" height="30" width="40" /></a>
+<a href="https://hashnode.com/dhruv patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dhruv patidar @dhruvb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dino dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dino dhruv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvpatidar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvpatidar35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvpatidar35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvpatidar35" height="30" width="40" /></a>
