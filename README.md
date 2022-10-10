@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvpatidar359" alt="dhruvpatidar359" /></a> </p>
 
-- 🔭 I’m currently working on [AmazeFileExplorer](https://github.com/TeamAmaze/AmazeFileManager.git)
+- 🔭 I’m currently working on Android dev with java and kotlin
 
 - 🌱 I’m currently learning **Android development , java**
 
-- 💬 Ask me about **java , python**
+- 💬 Ask me about **java , python , freelancing**
 
 - 📫 How to reach me **dhruvpatidar35@gmail.com**
 
