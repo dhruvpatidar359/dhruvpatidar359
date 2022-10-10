@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Patidar</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System+.+out+.+println+(dhruvpatidar359);Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">A passionate Android Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatidar359&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatidar359" /> </p>
 
