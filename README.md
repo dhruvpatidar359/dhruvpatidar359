@@ -11,7 +11,7 @@
 - 💬 Ask me about **java , python , freelancing**
 
 - 📫 How to reach me **dhruvpatidar35@gmail.com**
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhruvpatidar379)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhruvpatidar359)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
